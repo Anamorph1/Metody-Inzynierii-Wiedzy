@@ -1,0 +1,15 @@
+close all;
+figure(1);
+plot(log(:,1),log(:,2));
+grid on;
+xlabel('k');
+ylabel('Dopasowanie [%]');
+title('Poprawne dopasowanie irysów w zale¿noœci od parametru k');
+axis([0 150 0 110]);
+figure(2);
+plot(log2(:,1),log2(:,2));
+grid on;
+xlabel('k');
+ylabel('Dopasowanie [%]');
+title('Poprawne dopasowanie irysów w zale¿noœci od parametru k');
+axis([0 150 0 110]);

@@ -1,0 +1,18 @@
+E:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\miw_AGDS\agds\agds\bin\Debug\agds.exe.config
+E:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\miw_AGDS\agds\agds\bin\Debug\agds.exe
+E:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\miw_AGDS\agds\agds\bin\Debug\agds.pdb
+E:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\miw_AGDS\agds\agds\obj\Debug\agds.csprojResolveAssemblyReference.cache
+E:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\miw_AGDS\agds\agds\obj\Debug\agds.exe
+E:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\miw_AGDS\agds\agds\obj\Debug\agds.pdb
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\miw_AGDS\agds\agds\bin\Debug\agds.exe.config
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\miw_AGDS\agds\agds\obj\Debug\agds.exe
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\miw_AGDS\agds\agds\obj\Debug\agds.pdb
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\miw_AGDS\agds\agds\bin\Debug\agds.exe
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\miw_AGDS\agds\agds\bin\Debug\agds.pdb
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\miw_AGDS\agds\agds\obj\Debug\agds.csprojResolveAssemblyReference.cache
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\Ćwiczenia zaliczeniowe\miw_AGDS\agds\agds\bin\Debug\agds.exe.config
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\Ćwiczenia zaliczeniowe\miw_AGDS\agds\agds\obj\Debug\agds.exe
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\Ćwiczenia zaliczeniowe\miw_AGDS\agds\agds\obj\Debug\agds.pdb
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\Ćwiczenia zaliczeniowe\miw_AGDS\agds\agds\bin\Debug\agds.exe
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\Ćwiczenia zaliczeniowe\miw_AGDS\agds\agds\bin\Debug\agds.pdb
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\Ćwiczenia zaliczeniowe\miw_AGDS\agds\agds\obj\Debug\agds.csprojResolveAssemblyReference.cache

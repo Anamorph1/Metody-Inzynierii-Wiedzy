@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "miw_SOM", "miw_SOM\miw_SOM.csproj", "{995F1C0A-536B-4757-B2E6-23ADFED2E52B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiW", "..\miw\miw-KNN\MiW.csproj", "{B65F0420-CA8A-4A79-B510-A1540D2E595D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{995F1C0A-536B-4757-B2E6-23ADFED2E52B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995F1C0A-536B-4757-B2E6-23ADFED2E52B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995F1C0A-536B-4757-B2E6-23ADFED2E52B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995F1C0A-536B-4757-B2E6-23ADFED2E52B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B65F0420-CA8A-4A79-B510-A1540D2E595D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B65F0420-CA8A-4A79-B510-A1540D2E595D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B65F0420-CA8A-4A79-B510-A1540D2E595D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B65F0420-CA8A-4A79-B510-A1540D2E595D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

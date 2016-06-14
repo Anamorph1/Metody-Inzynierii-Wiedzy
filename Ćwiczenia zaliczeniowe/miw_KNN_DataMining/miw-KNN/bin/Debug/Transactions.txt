@@ -1,0 +1,9 @@
+kawa	mleko	cukier	orzechy						
+kawa		cukier		jajka					
+kawa		cukier			chleb	maslo	ser		
+		cukier	orzechy	jajka				miod	platki
+	mleko			jajka		maslo			
+kawa			orzechy		chleb				
+	mleko							miod	platki
+				jajka	chleb	maslo	ser		
+	mleko				chleb		ser		

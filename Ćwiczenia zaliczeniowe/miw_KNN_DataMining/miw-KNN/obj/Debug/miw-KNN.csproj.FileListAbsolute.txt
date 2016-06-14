@@ -1,0 +1,12 @@
+E:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\Ćwiczenie 1\miw-KNN\miw-KNN\bin\Debug\miw-KNN.exe.config
+E:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\Ćwiczenie 1\miw-KNN\miw-KNN\bin\Debug\miw-KNN.exe
+E:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\Ćwiczenie 1\miw-KNN\miw-KNN\bin\Debug\miw-KNN.pdb
+E:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\Ćwiczenie 1\miw-KNN\miw-KNN\obj\Debug\miw-KNN.csprojResolveAssemblyReference.cache
+E:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\Ćwiczenie 1\miw-KNN\miw-KNN\obj\Debug\miw-KNN.exe
+E:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\Ćwiczenie 1\miw-KNN\miw-KNN\obj\Debug\miw-KNN.pdb
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\MiW\Ćwiczenie 1\miw-KNN\miw-KNN\bin\Debug\miw-KNN.exe.config
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\MiW\Ćwiczenie 1\miw-KNN\miw-KNN\obj\Debug\miw-KNN.exe
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\MiW\Ćwiczenie 1\miw-KNN\miw-KNN\obj\Debug\miw-KNN.pdb
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\MiW\Ćwiczenie 1\miw-KNN\miw-KNN\bin\Debug\miw-KNN.exe
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\MiW\Ćwiczenie 1\miw-KNN\miw-KNN\bin\Debug\miw-KNN.pdb
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\MiW\Ćwiczenie 1\miw-KNN\miw-KNN\obj\Debug\miw-KNN.csprojResolveAssemblyReference.cache

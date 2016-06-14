@@ -1,0 +1,6 @@
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\Ćwiczenia zaliczeniowe\miw_CrossValidation\miw_CrossValidation\bin\Debug\miw_CrossValidation.exe.config
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\Ćwiczenia zaliczeniowe\miw_CrossValidation\miw_CrossValidation\bin\Debug\miw_CrossValidation.exe
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\Ćwiczenia zaliczeniowe\miw_CrossValidation\miw_CrossValidation\bin\Debug\miw_CrossValidation.pdb
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\Ćwiczenia zaliczeniowe\miw_CrossValidation\miw_CrossValidation\obj\Debug\miw_CrossValidation.csprojResolveAssemblyReference.cache
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\Ćwiczenia zaliczeniowe\miw_CrossValidation\miw_CrossValidation\obj\Debug\miw_CrossValidation.exe
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\Ćwiczenia zaliczeniowe\miw_CrossValidation\miw_CrossValidation\obj\Debug\miw_CrossValidation.pdb

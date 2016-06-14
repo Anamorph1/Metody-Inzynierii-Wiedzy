@@ -1,0 +1,6 @@
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\Ćwiczenia zaliczeniowe\miw_SOM\miw_SOM\bin\Debug\miw_SOM.exe.config
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\Ćwiczenia zaliczeniowe\miw_SOM\miw_SOM\obj\Debug\miw_SOM.csprojResolveAssemblyReference.cache
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\Ćwiczenia zaliczeniowe\miw_SOM\miw_SOM\bin\Debug\miw_SOM.exe
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\Ćwiczenia zaliczeniowe\miw_SOM\miw_SOM\bin\Debug\miw_SOM.pdb
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\Ćwiczenia zaliczeniowe\miw_SOM\miw_SOM\obj\Debug\miw_SOM.exe
+D:\Studia\VIII Semestr\Metody Inżynierii Wiedzy\Ćwiczenia zaliczeniowe\miw_SOM\miw_SOM\obj\Debug\miw_SOM.pdb
